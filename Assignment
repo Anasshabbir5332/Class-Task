@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anas Shabbir</title>
+</head>
+<style>
+    *{
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+    .first img{
+        width: 100%;
+        height: 700px;
+    }
+.text-box h4{
+  position: absolute;
+  top: 150px;
+  left: 350px;
+  color: brown;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+  font-size: xx-large;
+ }
+ .text-box h6{
+  position: absolute;
+  top: 250px;
+  left: 270px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+  font-size: xx-large;
+ }
+ .text-box p{
+  position: absolute;
+  top: 350px;
+  left: 270px;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+  font-size: xx-large;
+ }
+ input{
+font-size: large;
+padding: 10px; 
+}
+.jut{
+font-family: sans-serif;
+color: white;
+background-color: brown;
+border: none;
+}
+.jut:hover{
+color: black;
+background-color: white;
+box-shadow: inset;
+}
+.main{
+
+	height: 700px;
+	display: flex;
+	flex-direction: row;
+}
+.ak{
+	width: 50%;
+	margin-top: -10px;
+	height: 700px;
+}
+.du{
+	width: 50%;
+	height: 700px;
+}
+.du img{
+	width: 100%;
+}
+.tex-box{
+
+	margin-top: 100px;
+	padding: 50px;
+	font-family: sans-serif;
+	font-size: x-large;
+	text-align: center;
+}
+</style>
+<body>
+    <div class="first">    
+    <img src="image/one.jpg" alt="">
+
+    <div class="text-box">
+        <h4> ANAS SHABBIR </h4>
+		<h6>Do You Want to create a Website! </h6>
+		<p>
+			Hey, I’m Anas Shabbir. I will Make a Responsive Website at the Best prices for you! <a href="google.com">more...</a> <br> <br>
+		<input type="email" name="" id="" placeholder="abc@gmail.com"> 
+		<input class="jut" type="button" value="Contect US">
+		</p>
+    </div>
+    </div>
+<!-- -----------second page--------------- -->
+<div class="main">
+	<div class="ak">
+<div class="tex-box">
+	<h2> Who is Anas Shabbir?</h2> <br>
+<p>
+	Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum officia necessitatibus alias voluptatem soluta illo, laudantium, quisquam harum totam ullam ratione. Aut atque iure aperiam repellat, harum, explicabo corporis nemo et corrupti, debitis eligendi modi nostrum commodi repellendus deserunt eos labore! Veritatis, at nisi, quam natus nesciunt ipsum earum officiis dolore cum necessitatibus iusto eaque, incidunt quaerat exercitationem deleniti? Nam error minima distinctio numquam alias quos totam aperiam consequuntur? Aut similique commodi quis magni, architecto, labore nemo rem deserunt omnis necessitatibus ab nulla harum corporis eos possimus perspiciatis aperiam deleniti exercitationem aspernatur repudiandae nostrum provident laborum consequatur? Eligendi, at. Tenetur?
+</p>
+</div>
+
+	</div>
+
+	<div class="du">
+
+<img src="image/download.jfif" alt="">
+	</div>
+</div>
+	 
+</body>
+</html>
